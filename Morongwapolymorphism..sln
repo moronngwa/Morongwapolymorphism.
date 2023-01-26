@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morongwapolymorphism.", "..\Morongwapolymorphism\Morongwapolymorphism\Morongwapolymorphism..csproj", "{3C9E3339-92DC-4A0F-92EA-2492DAE8C617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9E3339-92DC-4A0F-92EA-2492DAE8C617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9E3339-92DC-4A0F-92EA-2492DAE8C617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9E3339-92DC-4A0F-92EA-2492DAE8C617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9E3339-92DC-4A0F-92EA-2492DAE8C617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF26D8D2-33FD-4D83-9367-037E0E824198}
+	EndGlobalSection
+EndGlobal
